@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham Raj
-- 👀 I’m interested in Machine learning and Software engneering
+- 👀 I’m interested in Software engneering and Data Science
 - 🌱 I’m currently exploring field of Data Science
 - 📫 You can reach me on LinkdIn : @shubhamrajofficial
 
