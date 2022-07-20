@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Raj
 - 👀 I’m interested in Software engneering and Data Science
-- 🌱 I’m currently interning at HighRadius as Software Engineer Intern
+- 🌱 I’m currently working at Cloudera as Software Engineer 
 - 📫 You can reach me on LinkdIn : @shubhamrajofficial
 
 <!---
