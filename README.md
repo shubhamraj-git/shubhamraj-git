@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shubham Raj
-- 👀 I’m interested in Software engneering and Data Science
-- 🌱 I’m currently working at Cloudera as Software Engineer 
+- 🌱 I’m currently working at Cloudera as Software Engineer II
 - 📫 You can reach me on LinkdIn : @shubhamrajofficial
 
 <!---
