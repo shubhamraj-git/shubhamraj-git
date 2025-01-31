@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shubham Raj
+- 👋 Hi, I am Shubham Raj
 - 🌱 I’m currently working at Cloudera as Software Engineer II
 - 📫 You can reach me on LinkdIn : @shubhamrajofficial
 
