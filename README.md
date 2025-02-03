@@ -8,5 +8,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![](https://ossrank.com/widget/886284)](https://ossrank.com/c/886284-shubham-raj)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=shubhamraj-git&theme=dark&show_icons=true)
