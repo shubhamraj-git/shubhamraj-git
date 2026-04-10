@@ -1,5 +1,5 @@
 - 👋 Hi, I am Shubham Raj
-- 💻 I’m currently working at Cloudera as Software Engineer II
+- 💻 I’m currently working at Qualcomm as Senior Engineer
 - 📫 You can reach me on LinkdIn : @shubhamrajofficial
 
 <!---
